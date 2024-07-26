@@ -343,27 +343,7 @@ Final Thoughts
 
 The insights gained from this analysis underscore the importance of a holistic approach to economic policy. By addressing the key factors influencing productivity, inflation, and currency stability, policymakers can create a conducive environment for sustained economic growth and stability. Implementing the recommended measures will enhance productivity and ensure long-term economic resilience and prosperity.
 
-How to Use This Repository
-
-This repository contains all the code and data used for the analysis. The following sections detail the structure and contents of the repository:
-
-Repository Structure
-
-data/: Contains the raw data files used for the analysis.
-
-notebooks/: Jupyter notebooks with detailed analysis and plots.
-
-plots/: Generated plots and graphs used in the report.
-
-report/: The final PDF report and README file.
-
-How to Run the Analysis
-
-Clone the repository to your local machine.
-
-Ensure you have the required libraries installed (pandas, numpy, matplotlib).
-
-Navigate to the notebooks/ directory and run the Jupyter notebooks to reproduce the analysis.
+I have attached tge dataset i used for this analysis and i also attached a detailed report in PDF. Kindly check 
 
 Contributions
 
